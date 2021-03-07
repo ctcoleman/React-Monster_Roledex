@@ -1,5 +1,5 @@
 # Monster Roledex - Sample React Application
-## Complete React Developer Course - 2021 - Udempy
+## Complete React Developer Course - 2021 - Udemy
 ## By Andrei Neagoie and Yihua Zhang
 
 Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)
